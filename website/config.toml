@@ -1,0 +1,4 @@
+baseURL = "http://AlphaTechHub.xyz"
+languageCode = "en-us"
+title = "AlphaTechHub"
+theme = "hugo-now-ui"
